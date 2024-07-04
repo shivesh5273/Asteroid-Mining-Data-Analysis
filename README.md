@@ -1,1 +1,1 @@
-# Asteroid-Mining-Data-Analysis
+# Boston University Projects for Applied Data Analytics
