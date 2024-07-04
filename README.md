@@ -1,1 +1,1 @@
-# Boston University Projects for Applied Data Analytics
+# Astroid-Mining-Data-Analysis
